@@ -21,6 +21,15 @@ export default function RootLayout() {
     <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
       <Stack>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <Stack.Screen name="auth" options={{ headerShown: false }} />
+        <Stack.Screen name="home" options={{ headerShown: false }} />
+        <Stack.Screen name="index" options={{ headerShown: false }} />
+        <Stack.Screen name="identity/login" options={{ headerShown: false }} />
+        <Stack.Screen name="identity/register" options={{ headerShown: false }} />
+        <Stack.Screen name="identity/options" options={{ headerShown: false }} />
+        <Stack.Screen name="cardetails/[model]" options={{ headerShown: false }} />
+        
+
         <Stack.Screen name="+not-found" />
       </Stack>
       <StatusBar style="auto" />
