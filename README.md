@@ -1,50 +1,13 @@
-# Welcome to your Expo app 👋
+This is a ReadMe page of our app.WHat this app is about is that this app will tryo to make a buy or sell of car with the crypto. 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+We know in traditional way buying or selling a car can be a hard thing to do because both the party find it dificult to get a fair value. 
+But why is that?
+Because unlike the new car the second hand car goes through various modification of parts of car, might have get damaged and so on. So what we have thought is to use the crypto idea to record the detail of each service like recording the change of each part. ONce it is sticked with the car number it can be universal meaning it will always stick with the car. So, now instead of just trying to figure out the price with just the miles drove or the date the car was on the road there is more paramter to measure this.
 
-## Get started
+What if the user is using 3rd party service provider and doesnt provide the information the buyer will know it as each part of the manufactured by the company has a particular number which is not provided by third party service provider.
 
-1. Install dependencies
+So with a mathmenatical modelling we try to get a fair price which can be useful for both buyer and seller and make them able to negotiate to reach a better deal.
 
-   ```bash
-   npm install
-   ```
+Once both the party agrees then the buy or sell can be done within a minute with the bitcoin and we take 1% commission from the seller.We might also be able to help to shift the car from state to state in country like UNited States.
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Instead of traditional way of buying car with cheque and waiting for days to get that deposited and make a deal we can make it fast like how amazon prime works. GEt the car as soon as payemnt asnsd deal is done.
